@@ -1,1 +1,1 @@
-# Music_Website
+# It is a Music_Website where there is a play icon that will play a background sound / music on website, then this icon will be changed to pause icon. We can pause the background music / sound by clicking on the pause button. I am created this website design using HTML, CSS and JavaScript.
